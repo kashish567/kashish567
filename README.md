@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashish567" alt="kashish567" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently currently a **MERN Stack Developer** at EDBA Academy, a Surfboard Venture.
 
 - 💬 Ask me about **MERN.**
 
